@@ -5,7 +5,7 @@ import android.graphics.BitmapFactory
 import android.graphics.Canvas
 import android.graphics.Color
 import android.graphics.LinearGradient
-import android.graphics.MediaMetadataRetriever
+import android.media.MediaMetadataRetriever
 import android.graphics.Paint
 import android.graphics.Path
 import android.graphics.RadialGradient
