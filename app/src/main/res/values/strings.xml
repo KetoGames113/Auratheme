@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="home_name">Aura Home</string>
+    <string name="wp_canvas_name">Aura — خلفية حيّة</string>
+    <string name="wp_canvas_desc">خلفيات متحركة وجدولة حسب الوقت</string>
+    <string name="wp_video_name">Aura — خلفية فيديو</string>
+    <string name="wp_video_desc">فيديو كخلفية للشاشة</string>
+    <string name="widget_small">Aura ويدجت صغير</string>
+    <string name="widget_medium">Aura ويدجت متوسط</string>
+    <string name="widget_large">Aura ويدجت كبير</string>
+</resources>
